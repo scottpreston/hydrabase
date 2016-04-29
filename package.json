@@ -2,15 +2,15 @@
   "author": "Scott Preston",
   "name": "hydrabase",
   "description": "a back-end-as-a-service that doesn't work",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "main": "lib/hydrabase.js",
   "repository": {
       "type": "git",
-      "url": "git://github.com/scottpreston/serialservo"
+      "url": "git://github.com/scottpreston/hydrabase"
   },
   "bugs": {
-      "url": "https://github.com/scottpreston/serialservo/issues"
+      "url": "https://github.com/scottpreston/hydrabase/issues"
   },
   "dependencies": {}
 }
